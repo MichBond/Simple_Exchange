@@ -1,0 +1,15 @@
+C:\C#\Simple_Exchange\Simple_Exchange\obj\Debug\net6.0\Simple_Exchange.csproj.AssemblyReference.cache
+C:\C#\Simple_Exchange\Simple_Exchange\obj\Debug\net6.0\Simple_Exchange.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Simple_Exchange\Simple_Exchange\obj\Debug\net6.0\Simple_Exchange.AssemblyInfoInputs.cache
+C:\C#\Simple_Exchange\Simple_Exchange\obj\Debug\net6.0\Simple_Exchange.AssemblyInfo.cs
+C:\C#\Simple_Exchange\Simple_Exchange\obj\Debug\net6.0\Simple_Exchange.csproj.CoreCompileInputs.cache
+C:\C#\Simple_Exchange\Simple_Exchange\bin\Debug\net6.0\Simple_Exchange.exe
+C:\C#\Simple_Exchange\Simple_Exchange\bin\Debug\net6.0\Simple_Exchange.deps.json
+C:\C#\Simple_Exchange\Simple_Exchange\bin\Debug\net6.0\Simple_Exchange.runtimeconfig.json
+C:\C#\Simple_Exchange\Simple_Exchange\bin\Debug\net6.0\Simple_Exchange.dll
+C:\C#\Simple_Exchange\Simple_Exchange\bin\Debug\net6.0\Simple_Exchange.pdb
+C:\C#\Simple_Exchange\Simple_Exchange\obj\Debug\net6.0\Simple_Exchange.dll
+C:\C#\Simple_Exchange\Simple_Exchange\obj\Debug\net6.0\refint\Simple_Exchange.dll
+C:\C#\Simple_Exchange\Simple_Exchange\obj\Debug\net6.0\Simple_Exchange.pdb
+C:\C#\Simple_Exchange\Simple_Exchange\obj\Debug\net6.0\Simple_Exchange.genruntimeconfig.cache
+C:\C#\Simple_Exchange\Simple_Exchange\obj\Debug\net6.0\ref\Simple_Exchange.dll
