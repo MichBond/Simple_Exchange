@@ -28,7 +28,7 @@
         switch (desiredOperation)
         {
             case "1":
-                Console.WriteLine("Change of UAH into USD");
+                Console.WriteLine("Change of UAH into USD))");
                 Console.Write("How much do you need to change? ");
                 exchangeCurrencyCount = Convert.ToSingle(Console.ReadLine());
                 if (uahInWallett >= exchangeCurrencyCount)
